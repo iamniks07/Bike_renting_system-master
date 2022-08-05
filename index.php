@@ -52,7 +52,7 @@ error_reporting(0);
           <div class="banner_content">
             <h1 style="  margin-left: -123px; color:white; text-shadow: 0 0 3px black, 0 0 5px black;">Find Your Perfect bike</h1>
             <!-- <p>We have more than a thousand bikes for you to choose. </p> -->
-            <a href="#new" class="btn">Find Your Bike<span class="triangle-down primary"><i class="fa fa-search" aria-hidden="true"></i></span></a> </div>
+            <a href="#new" class="btn">Find Your BIKE<span class="triangle-down primary"><i class="fa fa-search" aria-hidden="true"></i></span></a> </div>
         </div>
       </div>
     </div>
